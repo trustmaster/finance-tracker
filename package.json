@@ -23,7 +23,7 @@
   "homepage": "https://github.com/noflo/finance-tracker#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "knex": "^0.16.0",
+    "knex": "^0.17.0",
     "noflo": "^1.0.3",
     "noflo-assembly": "^0.2.0",
     "noflo-assembly-db": "^0.3.0",
